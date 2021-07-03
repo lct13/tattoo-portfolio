@@ -1,0 +1,19 @@
+{
+  "illuminati": {
+    "type": "tattoos", "works": {
+      "catbutt": [2, 8], "catface": [2, 10.5], "fish": [11, 0.5], "fishlegs": [0, 6], 
+      "flowers": [6.5, 13], "moon": [11, 2.5], "moth": [12, 14], "puddle": [14.5, 9],
+      "snake": [10,14]   
+    }
+  },
+  "springdaze": {
+    "type": "tattoos", "works": {
+      "guy": [10, 8], "rainbowcat": [14, 2], "rainbowlegs": [12, 3]
+    }
+  },
+  "fruity": {
+    "type": "tattoos", "works": {
+      "eggplant": [14, 7], "orange": [4.5, 9.25], "starfruit": [2, 12], "strawberries": [12, 3]
+    }
+  }
+}
