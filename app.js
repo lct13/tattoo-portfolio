@@ -1,11 +1,3 @@
-/**
- * Name: Linh-Chi Tran
- * Date: 
- * Section: CSE154 AE
- * 
- 
- */
-
  "use strict";
 
  const EDIT_PASSWORD = "bananas";
